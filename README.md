@@ -1,14 +1,14 @@
 # YouTubeDownloader
 This script downloads YouTube videos using a Python library.
 
-###Prerequisites
+### Prerequisites
 The script uses **pytube** library.
 ```
 pip3 install --upgrade pip
 pip3 install pytube3
 ```
 
-###Usage
+### Usage
 ```
 python3 main.py url
 ```
