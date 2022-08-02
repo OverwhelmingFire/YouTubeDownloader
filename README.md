@@ -12,7 +12,8 @@ pip3 install pytube3
 ```
 python3 main.py url
 ```
-- **url** is the path to a video you want to download
+- **url** is the path to a video you want to download.
+
 Or:
 ```
 python3 main.py file
